@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(string)
-  if string == string.uppercase
+  if string == string.upcase
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
